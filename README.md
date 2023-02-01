@@ -48,7 +48,7 @@ Este efecto se explica por el casi obvio hecho de que la mayoría de la gente de
 
 Parece ser un rasgo de suma importancia que el contenido de los cursos sea en inglés. Sin embargo, al investigar la profundidad del mercado por fuera de la muestra, creemos que puede haber muchísimo potencial para una plataforma de contenidos hispana.
 
-### Rating y Nivel
+#### Rating y Nivel
 
 Parece haber una enorme correlación de las ventas, tanto en cantidad como en monto, a mayores niveles de rating dado por los usuarios.
 Respecto del nivel de complejidad de los cursos, más del 80% del mercado está destinado a cursos de nivel introductorio y de nivel apto para todos los niveles.
