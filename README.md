@@ -49,6 +49,6 @@ It is worth noting that 15% of the content is aimed at intermediate-level course
 
 This extra feature became of interest when analyzing the data. There is clear evidence that courses longer than the average seem to be the most requested. Likewise, extremely long courses have the highest percentage of benefits.
 
-#### You can check the online report and interact with it by clicking ➡️[here](https://www.novypro.com/project/reporte-sobre-moocs-varias-p%C3%A1ginas)⬅️
+#### You can check the online report and interact with it by clicking ➡️[here](https://www.novypro.com/project/reporte-sobre-moocs-varias-p%C3%A1ginas/)⬅️ or by followinng this URL: https://www.novypro.com/project/reporte-sobre-moocs-varias-p%C3%A1ginas.
 
 
