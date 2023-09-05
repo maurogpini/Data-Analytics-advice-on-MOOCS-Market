@@ -57,3 +57,6 @@ Es de notar que el 15% del contenido está destinado a cursos de nivel intermedi
 #### Duración
 
 Este extra feature resultó de interés al analizar la data. Hay una clara evidencia a que los cursos mayores a la media parecen ser los más solicitados. Asimismo, Los cursos extremadamente largos, son los que mayor participación porcentual de los beneficios tienen.
+
+"#### Puede consultar el reporte online e interactuar con él haciendo clic ➡️[aquí](https://www.novypro.com/project/reporte-sobre-moocs-varias-p%C3%A1ginas/)⬅️."
+
